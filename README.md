@@ -35,12 +35,7 @@
 ## 安装
 
 ```bash
-pip install gopay-py
-```
 
-或从源码安装:
-
-```bash
 git clone https://github.com/your-org/gopay-py.git
 cd gopay-py
 pip install -e .
@@ -493,3 +488,21 @@ mypy gopay/
 **⭐ 如果这个项目对你有帮助,请给我们一个Star!**
 
 **GitHub**: https://github.com/hezuogongying/gopay-py
+
+---
+
+## 赞赏多少是您的心意，感谢支持！
+
+微信赞赏码：<img width="200" height="200" src="assets/wx_pai.jpg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+支付宝赞助码：<img width="200" height="200" src="assets/hzwy_pay.jpg"/>
+
+---
+
+## 问题沟通：
+
+> 加微信群沟通，关注公众号获取最新版本。
+
+微信群: <img width="200" height="200" src="assets/wx_qun.jpg"/>
+
+关注公众号: <img width="200" height="200" src="assets/gzh_vip.png"/>
